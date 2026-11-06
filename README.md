@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Angel Azorza Aguirre
 ## Desarrollador de Software Junior
 
