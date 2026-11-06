@@ -14,6 +14,7 @@ Complemento mi perfil técnico con experiencia en análisis de datos y visualiza
 - **📱 Celular:** 947854358
 - **💼 LinkedIn:** www.linkedin.com/in/angel-azorza-aguirre
 - **🌐 Portafolio:** ******
+- * **📄 Currículum Vitae:** Descargar mi CV en formato PDF(Azorza_Angel_CV.pdf)
 
 ---
 
