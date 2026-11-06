@@ -1,5 +1,5 @@
 ## Hi there 👋
-# [Angel Azorza Aguirre]
+# Angel Azorza Aguirre
 ## Desarrollador de Software Junior
 
 Desarrollador de Software Junior con experiencia en el desarrollo de aplicaciones web, móviles y de escritorio, orientadas a la gestión de productos, ventas e inventarios. Cuento con sólidos conocimientos en **C# (.NET, ASP.NET, Web API)**, React, React Native con TypeScript, Node.js y Java (Android), además del consumo e integración de APIs REST. 
@@ -10,10 +10,10 @@ Complemento mi perfil técnico con experiencia en análisis de datos y visualiza
 
 ### 📬 Contacto
 - **📍 Ubicación:** Lima, Perú
-- **📧 Correo:** [azorzaa@gmail.com]
-- **📱 Celular:** [947854358]
-- **💼 LinkedIn:** [www.linkedin.com/in/angel-azorza-aguirre]
-- **🌐 Portafolio:** [******]
+- **📧 Correo:** azorzaa@gmail.com
+- **📱 Celular:** 947854358
+- **💼 LinkedIn:** www.linkedin.com/in/angel-azorza-aguirre
+- **🌐 Portafolio:** ******
 
 ---
 
